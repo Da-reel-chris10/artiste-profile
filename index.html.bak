@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+     <head> 
+	     <meta charset="utf-8">
+		 <meta name="keywords" content="Christian, rapper, songwriter">
+		 <meta name="author" content="Christian Alisiobi-Yobo">
+		 <meta name="description" content="The online residence of the famous rapper, Christian">
+		 <meta name="viewport" content="width=device-width, initial-width: 1.0;">
+	     <title>Christian</title>
+		 <link rel="icon" href="../HTML - My Personal Site/images/176059685_166783342005399_7392312029684228304_n-modified.png" type="icon/png">
+		 <link rel="stylesheet" href="../Bootstrap-Installation/bootstrap-5.2.2-dist/bootstrap-5.2.2-dist/css/bootstrap.css">
+		 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		 <link rel="stylesheet" href="css/styles.css" type="text/css">
+         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js" integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V" crossorigin="anonymous"></script>
+		 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>
+	 </head>
+	 <body>
+
+        <div class="container-fluid">
+		    <nav class="navbar fixed-top navbar-expand-lg navbar-dark">
+			    <a class="navbar-brand" href="index.html">Christian</a>
+				<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#main-menu" aria-controls="main-menu" aria-expanded="false" aria-label="Toggle navigation">
+				     <span class="navbar-toggler-icon"></span>
+				</button>
+				<div class="collapse navbar-collapse" id="main-menu">
+				    <ul class="navbar-nav ms-auto">
+					     <li class="nav-item">
+						     <a class="nav-link" href="#home">Home</a>
+						 </li>
+						 <li class="nav-item">
+						     <a class="nav-link" href="#bio">Bio</a>
+						 </li>
+						 <li class="nav-item">
+						     <a class="nav-link" href="#music">Songs And Albums</a>
+						 </li>
+						 <li class="nav-item">
+						     <a class="nav-link" href="#connect">Connect</a>
+						 </li>
+					</ul> 
+				</div>
+			</nav>
+        </div> 
+		
+		<!--Home-->
+		
+		<section id="home" style="text-align: center; background-color: gray; color: black;">
+		                 <img style="padding: 3%;" src="../HTML - My Personal Site/images/176059685_166783342005399_7392312029684228304_n.jpg">
+		    <div class="row">
+			    <div class="col-lg-12 col-md-auto col-sm-auto">
+				     <h2>C Major On This Shit, Yo!!</h2>
+					 <p>Christian is a 17-year-old talented singer/rapper and songwriter. His songs are capable of bringing out the best in any individual at all. New releases to be dropped soon.</p>
+		    	</div>
+		    </div>
+		</section>
+		
+		<!--Bio-->
+		
+		<section id="bio" style="text-align: left; background-color: black; color: white;">
+		    <div class="container-fluid">
+			     <h1>Biography</h1>
+				 <p>Christian (born <em>Christian Alisiobi-Yobo Onyemaechi</em> on June 13, 2005) found passion for music in his 9th grade. He claims to have been inspired by the sound track <strong>A Lot</strong>, a track by <em>21 Savage</em> and <em>J. Cole</em>. He also listened to tracks from other musicians like <em>Migos</em> [ which consisted of <em>Quavo</em>, <em>Offset</em> and the late <em>TakeOff</em> ], <em>DaBaby</em>, <em>Future</em> and the likes, of which his favorite musician and role model appears to be <em>Drake</em>.</p>
+				 <p>In the year 2020, Christian participated in a talent hunt show featuring all the high schools in his location. He showcased his rap abilities and those abilities put him in second place under the singing category of the competition. Few months later, he opened an <em>Audiomack</em> account for a chance to showcase his talent to the world. His first song, <strong>Low Key</strong>, got a good number of streams, considering it was his very first track and this motivated him to keep up the good work. He then released other songs like <strong>Fallen Dreams</strong> featuring <em>Drex Davis</em>, <strong>Paper Cut</strong>, <strong>Olive</strong>, <strong>Demon Sounds</strong> featuring <em>Roy</em> and a few others.</p>
+				 <p>He has also had a bunch of features from his fellow upcoming talents. Tracks he is featured in are <strong>Middle Child</strong> by <em>Drex Davis</em>, <strong>No Difference</strong> by <em>Drex Davis</em>, <strong>Past Things</strong> by <em>Donps Carter</em>, <strong>Grind</strong> by <em>Alex Daniel</em>, <strong>Sky High</strong> by <em>Big Smoke</em> and a few others.</p>
+				 <p>Currently he has <strong>603</strong> followers with a sum of <strong>3.46k</strong> plays on his Audiomack account.</p>
+				 <p>Have a look at Christian's Audiomack page <a class="audiomack-link" target="blank" href="https://audiomack.com/da_reel_chris10/">here</a></p>
+			</div>
+		</section>
+		
+		<!--Music-->
+		
+		<section id="music" style="text-align: center; background-color: gray; color: black;">
+		    <h1>Songs and Albums</h1>
+			<br>
+			<h2>Songs</h2>
+		    <div class="row">
+			    <div class="card-group">
+				    <div class="col-lg-4 col-md-6 col-sm-auto">
+					    <div class="card">
+						    <div class="card-header">
+							     <h3>Demon Sounds</h3>
+							</div>
+							<div class="card-body">
+							     <img class="cover" src="images/DEMON SOUNDS.png">
+							     <h2>Christian (ft. Roy)</h2>
+								 <audio src="audio/Demon Sounds.mp3" autoplay controls>
+								 </audio>
+							</div>
+                        </div> 
+				    </div>
+					<div class="col-lg-4 col-md-6 col-sm-auto">
+					    <div class="card">
+						    <div class="card-header">
+							    <h3>Fallen Dreams</h3>
+							</div>
+							<div class="card-body">
+							     <img class="cover" src="images/Christian - Fallen Dreams (ft. Drex Davis) (Official Cover).png">
+								 <h2>Christian (ft. Drex Davis)</h2>
+								 <audio src="audio/Fallen Dreams.mp3" autoplay controls>
+								 </audio>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6 col-sm-auto">
+					    <div class="card">
+						    <div class="card-header">
+							     <h3>Casted</h3>
+							</div>
+							<div class="card-body">
+							     <img class="cover" src="images/Casted.png">
+							     <h2>Christian</h2>
+								 <audio src="audio/Casted.mp3" autoplay controls>
+								 </audio>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<br>
+			<a class="btn" href="">See More</a>
+			<br>
+			<h1>Albums</h1>
+			<div class="row">
+			    <div class="card-group">
+				    <div class="col-lg-4 col-md-6 col-sm-auto">
+					    <div class="card">
+						    <div class="card-header">
+							     <h3>Gemini Man</h3>
+							</div>
+							<div class="card-body">
+							     <img class="cover" src="images/GEMINI MAN.png">
+								 <h2>Feat: MiH, Drex Davis, Roy, BlaqGold, Alex Daniel</h2>
+								 <p>Coming soon</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6 col-sm-auto">
+                        <div class="card">
+						    <div class="card-header">
+							     <h3>Legacy: The Album</h3>
+							</div>
+							<div class="card-body">
+							     <img class="cover" src="images/Legacy The Album Oficial Cover.png">
+								 <h2>Feat: Drex Davis, Draxx, Eric Divine, Alex Daniel, Golden Cole, WeSlack</h2>
+								 <p>Coming Soon</p>
+							</div>
+						</div>
+				   </div>
+				</div>
+			</div>
+		</section>
+		
+		<!--Connect-->
+		
+		<section id="connect" style="text-align: center; background-color: white; color: black;">
+		     <h2>Connect with Christian today.</h2>
+			 <br>
+			 <a href="mailto:christyanforreal360@gmail.com"><img class="social" src="../HTML - My Personal Site/images/gmail.png"></a>
+			 <a href="https://facebook.com/da.reel.chris10"><img class="social" src="../HTML - My Personal Site/images/facebook.png"></a>
+			 <a href="https://instagram.com/da_reel_chris10"><img class="social" src="../HTML - My Personal Site/images/instagram.png"></a>
+			 <a href="https://wa.me/+2349040356654"><img class="social" src="../HTML - My Personal Site/images/whatsapp.png"></a>
+		</section>
+		
+		<!--Footer-->
+		
+		<section id="footer">
+		     <p>Copyright © C Major 2022 - All Rights Reserved</p>
+		</section>
